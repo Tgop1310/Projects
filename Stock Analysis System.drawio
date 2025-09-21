@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="M9QDj3xI2UDSRM4bRzDp">
-    <mxGraphModel dx="1440" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-MleyESL9_Mubh9_nKul-0" />
         <mxCell id="-MleyESL9_Mubh9_nKul-1" parent="-MleyESL9_Mubh9_nKul-0" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="1300" y="280" width="310" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="2x-FoqGZgGqfMUCBSjRW-0" value="yfinance" style="rounded=0;whiteSpace=wrap;html=1;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
           <mxGeometry x="40" y="338.75" width="120" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="40" y="428.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2x-FoqGZgGqfMUCBSjRW-2" value="Data Sources" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
-          <mxGeometry x="40" y="230" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;noEdgeStyle=1;orthogonal=1;" parent="-MleyESL9_Mubh9_nKul-1" source="nt9nraaoCfBHpBIq72VR-0" target="nt9nraaoCfBHpBIq72VR-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-19" value="Looker Studios" style="rounded=1;whiteSpace=wrap;html=1;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
-          <mxGeometry x="1300" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="463.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-20" value="Data Warehouse&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Google Cloud Platform, GCP)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
           <mxGeometry x="985" y="220" width="240" height="50" as="geometry" />
@@ -144,11 +147,11 @@
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="490" y="280" width="140" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="1300" y="280" width="310" height="460" as="geometry" />
-        </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-17" value="SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="1230" y="458.75" width="50" height="30" as="geometry" />
+          <mxGeometry x="1225" y="463.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-19" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="1440" y="463.75" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
