@@ -147,11 +147,11 @@
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-14" value="Analytics, Visualization &amp;amp; BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1345" y="220" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-17" value="SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-17" value="SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1225" y="463.75" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-19" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="1440" y="463.75" width="80" height="30" as="geometry" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-19" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="1435" y="463.75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-22" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Extract&lt;/span&gt;: CSV, .json formats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="260" y="360" width="170" height="30" as="geometry" />
