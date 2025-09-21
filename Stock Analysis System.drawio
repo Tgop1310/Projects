@@ -84,7 +84,7 @@
             <mxPoint x="1150" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNfFULA2eBh76LOntFVm-1" value="Orchestration:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Airflow, Docker&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=16;" parent="pNfFULA2eBh76LOntFVm-0" connectable="0" vertex="1">
+        <mxCell id="pNfFULA2eBh76LOntFVm-1" value="&lt;b&gt;Orchestration&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Airflow, Docker&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=16;" parent="pNfFULA2eBh76LOntFVm-0" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
@@ -95,7 +95,7 @@
             <mxPoint x="1150" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNfFULA2eBh76LOntFVm-7" value="Version Control: Git, Github" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="pNfFULA2eBh76LOntFVm-6" vertex="1" connectable="0">
+        <mxCell id="pNfFULA2eBh76LOntFVm-7" value="&lt;b&gt;Version Control:&lt;/b&gt; Git, Github" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="pNfFULA2eBh76LOntFVm-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0906" y="-2" relative="1" as="geometry">
             <mxPoint x="35" as="offset" />
           </mxGeometry>
