@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="M9QDj3xI2UDSRM4bRzDp">
-    <mxGraphModel dx="1224" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-MleyESL9_Mubh9_nKul-0" />
         <mxCell id="-MleyESL9_Mubh9_nKul-1" parent="-MleyESL9_Mubh9_nKul-0" />
@@ -77,22 +77,22 @@
         </mxCell>
         <mxCell id="pNfFULA2eBh76LOntFVm-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="-MleyESL9_Mubh9_nKul-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="750" as="sourcePoint" />
-            <mxPoint x="665" y="750" as="targetPoint" />
+            <mxPoint x="60" y="780" as="sourcePoint" />
+            <mxPoint x="1150" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNfFULA2eBh76LOntFVm-1" value="Orchestration:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Airflow, Docker&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" parent="pNfFULA2eBh76LOntFVm-0" connectable="0" vertex="1">
+        <mxCell id="pNfFULA2eBh76LOntFVm-1" value="Orchestration:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Airflow, Docker&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=16;" parent="pNfFULA2eBh76LOntFVm-0" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" as="offset" />
+            <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pNfFULA2eBh76LOntFVm-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="-MleyESL9_Mubh9_nKul-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="780" as="sourcePoint" />
-            <mxPoint x="665" y="780" as="targetPoint" />
+            <mxPoint x="60" y="820" as="sourcePoint" />
+            <mxPoint x="1150" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNfFULA2eBh76LOntFVm-7" value="Version Control: Git" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="pNfFULA2eBh76LOntFVm-6" vertex="1" connectable="0">
+        <mxCell id="pNfFULA2eBh76LOntFVm-7" value="Version Control: Git, Github" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="pNfFULA2eBh76LOntFVm-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0906" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
