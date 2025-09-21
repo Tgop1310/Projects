@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="M9QDj3xI2UDSRM4bRzDp">
-    <mxGraphModel dx="1440" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-MleyESL9_Mubh9_nKul-0" />
         <mxCell id="-MleyESL9_Mubh9_nKul-1" parent="-MleyESL9_Mubh9_nKul-0" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="530" y="280" width="140" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1300" y="280" width="310" height="460" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-0" value="postgresql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
-          <mxGeometry x="530" y="453.75" width="60" height="80" as="geometry" />
+          <mxGeometry x="570" y="453.75" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-1" value="economic calender" style="rounded=0;whiteSpace=wrap;html=1;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
           <mxGeometry x="40" y="518.75" width="120" height="60" as="geometry" />
@@ -34,7 +37,7 @@
           <mxGeometry x="40" y="608.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-11" value="Data Lake&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(On-premise)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
-          <mxGeometry x="500" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="540" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nt9nraaoCfBHpBIq72VR-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="-MleyESL9_Mubh9_nKul-1" vertex="1">
           <mxGeometry x="900" y="280" width="380" height="460" as="geometry" />
@@ -132,11 +135,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;Extract&lt;span style=&quot;font-weight: normal;&quot;&gt;: CSV, .json formats)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;Transform&lt;span style=&quot;font-weight: normal;&quot;&gt;: Mainly to remove NA,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;special characters,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;change weird columns, standardize df formats)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;Load:&lt;span style=&quot;font-weight: normal;&quot;&gt; sqlalchemy)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="190" y="398.75" width="310" height="90" as="geometry" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="320" y="320" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;/span&gt;Mainly Transform&lt;span style=&quot;font-weight: normal;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Using pandas, numpy to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;process data based on a set criteria)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Load&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: Google Cloud Client Library)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="630" y="420" width="260" height="80" as="geometry" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="760" y="350" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="20" y="280" width="170" height="450" as="geometry" />
@@ -144,14 +147,26 @@
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-14" value="Analytics &amp;amp; BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1410" y="225" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="490" y="280" width="140" height="460" as="geometry" />
-        </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-17" value="SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1225" y="463.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-19" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1440" y="463.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-22" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Extract&lt;/span&gt;: CSV, .json formats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="260" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-23" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;Transform&lt;span style=&quot;font-weight: normal;&quot;&gt;: Mainly to remove NA,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;special characters,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;change weird columns, standardize df formats&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="200" y="398.75" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-24" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Load:&lt;/span&gt;&amp;nbsp;sqlalchemy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="285" y="453.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-26" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;Mainly Transform&lt;span style=&quot;font-weight: normal;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Using pandas,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;numpy &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;process data based on&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;a set criteria)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="680" y="388.75" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-27" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Load:&lt;/span&gt;&amp;nbsp;Google Cloud Client Library)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="680" y="453.75" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
