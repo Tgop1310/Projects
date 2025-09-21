@@ -153,8 +153,8 @@
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-19" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="1435" y="463.75" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69lv1Ex3wzdSpeNYYW5h-22" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Extract&lt;/span&gt;: CSV,.json, dict formats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
-          <mxGeometry x="250" y="360" width="190" height="30" as="geometry" />
+        <mxCell id="69lv1Ex3wzdSpeNYYW5h-22" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Extract&lt;/span&gt;: CSV, .json formats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
+          <mxGeometry x="260" y="360" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69lv1Ex3wzdSpeNYYW5h-23" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;Transform&lt;span style=&quot;font-weight: normal;&quot;&gt;: Mainly to remove NA,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;special characters,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;change weird columns, standardize df formats&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-MleyESL9_Mubh9_nKul-1">
           <mxGeometry x="200" y="398.75" width="310" height="40" as="geometry" />
