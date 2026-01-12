@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="Rf_EvWKlaj4O5YXuQF_C">
-    <mxGraphModel dx="1224" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MRionYbGfYDRam-L9dxK-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="860" width="1766" x="314" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MRionYbGfYDRam-L9dxK-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="730" width="950" x="350" y="250" as="geometry" />
+        </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="460" width="350" x="1310" y="370" as="geometry" />
         </mxCell>
@@ -39,7 +45,7 @@
         <mxCell id="MRionYbGfYDRam-L9dxK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COT" vertex="1">
           <mxGeometry height="60" width="120" x="410" y="698.75" as="geometry" />
         </mxCell>
-        <mxCell id="MRionYbGfYDRam-L9dxK-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Staging / Compute&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(On-premise)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="MRionYbGfYDRam-L9dxK-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Staging / Compute&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(VM-Instance)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="890" y="310" as="geometry" />
         </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-12" edge="1" parent="1" source="MRionYbGfYDRam-L9dxK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" target="MRionYbGfYDRam-L9dxK-17">
@@ -76,7 +82,7 @@
           <mxGeometry height="60" width="120" x="1690" y="553.75" as="geometry" />
         </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Google Cloud Platform (GCP)&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Analytics)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1355" y="300" as="geometry" />
+          <mxGeometry height="50" width="240" x="1355" y="310" as="geometry" />
         </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Website" vertex="1">
           <mxGeometry height="80" width="80" x="1890" y="545" as="geometry" />
@@ -204,6 +210,12 @@
             <mxPoint x="1540" y="710" as="sourcePoint" />
             <mxPoint x="1590" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MRionYbGfYDRam-L9dxK-50" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Google Cloud Platform" vertex="1">
+          <mxGeometry height="30" width="190" x="1102" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRionYbGfYDRam-L9dxK-52" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Google Cloud Compute Engine" vertex="1">
+          <mxGeometry height="30" width="240" x="685" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
