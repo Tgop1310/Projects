@@ -151,7 +151,7 @@
           <mxGeometry height="450" width="170" x="390" y="370" as="geometry" />
         </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" value="Visualization &amp;amp; BI" vertex="1">
-          <mxGeometry height="30" width="150" x="1750" y="310" as="geometry" />
+          <mxGeometry height="30" width="150" x="1750" y="320" as="geometry" />
         </mxCell>
         <mxCell id="MRionYbGfYDRam-L9dxK-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" value="SQL" vertex="1">
           <mxGeometry height="30" width="50" x="1595" y="553.75" as="geometry" />
